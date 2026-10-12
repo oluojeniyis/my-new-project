@@ -1,0 +1,65 @@
+2026-09-30 22:43:55.971 +01:00 [INF] Configuring services.
+2026-09-30 22:44:03.216 +01:00 [INF] Initializing EpDetector with 2 bootstrapper(s).
+2026-09-30 22:44:03.217 +01:00 [INF] EP registration deferred. Call DownloadAndRegisterEpsAsync to begin.
+2026-09-30 22:44:03.217 +01:00 [INF] EpDetector initialization complete.
+2026-09-30 22:44:03.243 +01:00 [INF] Created AzureModelCatalog. URI:https://ai.azure.com/api/eastus/ux/v1.0 Cache directory:C:\Users\MSI/.github-copilot-cli/cache/models
+2026-09-30 22:44:03.247 +01:00 [INF] Getting latest info from the Azure catalog and for locally cached models.
+2026-09-30 22:44:03.247 +01:00 [INF] Getting info for locally cached models.
+2026-09-30 22:44:03.247 +01:00 [INF] Runtime versions: onnxruntime=1.26.0, onnxruntime-genai=0.14.1
+2026-09-30 22:44:03.247 +01:00 [INF] Found 0 locally cached models.
+2026-09-30 22:44:03.247 +01:00 [INF] EPs are not fully registered. Call DownloadAndRegisterEpsAsync to register EPs.
+2026-09-30 22:44:03.248 +01:00 [INF] Device: CPU,EPs: CPUExecutionProvider
+2026-09-30 22:44:03.248 +01:00 [INF] Fetching latest models from Azure Foundry catalog
+2026-09-30 22:44:03.248 +01:00 [INF] [Telemetry] AppName:github-copilot-cli UserAgent:CoreNativeInterop Command:CoreInitialize Status:Success Direct:True Time:0ms
+2026-09-30 22:44:25.490 +01:00 [INF] Detected region from catalog header: 'westeurope'
+2026-09-30 22:44:34.471 +01:00 [INF] RegionFallback: "Catalog" sticky region set to 'westeurope' after 1 attempt(s).
+2026-09-30 22:44:43.784 +01:00 [INF] Got 48 models from Azure Foundry catalog.
+2026-09-30 22:44:43.805 +01:00 [INF] Populated model info for 0 models.
+2026-09-30 22:44:43.823 +01:00 [INF] Getting latest info from the Azure catalog and for locally cached models.
+2026-09-30 22:44:43.823 +01:00 [INF] Getting info for locally cached models.
+2026-09-30 22:44:43.824 +01:00 [INF] Found 0 locally cached models.
+2026-09-30 22:44:43.824 +01:00 [INF] EPs are not fully registered. Call DownloadAndRegisterEpsAsync to register EPs.
+2026-09-30 22:44:43.824 +01:00 [INF] Device: CPU,EPs: CPUExecutionProvider
+2026-09-30 22:44:43.824 +01:00 [INF] Fetching latest models from Azure Foundry catalog
+2026-09-30 22:44:43.974 +01:00 [INF] Background cache initialization timed out.
+2026-09-30 22:44:44.017 +01:00 [INF] Detected region from catalog header: 'westeurope'
+2026-09-30 22:44:45.683 +01:00 [INF] Got 48 models from Azure Foundry catalog.
+2026-09-30 22:44:45.683 +01:00 [INF] Populated model info for 0 models.
+2026-09-30 22:44:45.683 +01:00 [INF] Getting info for locally cached models.
+2026-09-30 22:44:46.124 +01:00 [INF] [Telemetry] AppName:github-copilot-cli UserAgent:CoreNativeInterop Command:ModelList Status:Success Direct:True Time:42839ms
+2026-09-30 22:44:46.638 +01:00 [INF] Getting info for locally cached models.
+2026-09-30 22:44:46.638 +01:00 [INF] [Telemetry] AppName:github-copilot-cli UserAgent:CoreNativeInterop Command:ListDownloadedModels Status:Success Direct:True Time:0ms
+2026-09-30 22:44:46.749 +01:00 [INF] [Telemetry] AppName:github-copilot-cli UserAgent:CoreNativeInterop Command:ListLoadedModels Status:Success Direct:True Time:92ms
+2026-09-30 23:33:49.247 +01:00 [INF] Configuring services.
+2026-09-30 23:33:51.789 +01:00 [INF] Initializing EpDetector with 2 bootstrapper(s).
+2026-09-30 23:33:51.798 +01:00 [INF] EP registration deferred. Call DownloadAndRegisterEpsAsync to begin.
+2026-09-30 23:33:51.798 +01:00 [INF] EpDetector initialization complete.
+2026-09-30 23:33:52.000 +01:00 [INF] Loaded cached model info for 48 models. SavedAt:09/30/2026 22:44:49
+2026-09-30 23:33:52.004 +01:00 [INF] Created AzureModelCatalog. URI:https://ai.azure.com/api/eastus/ux/v1.0 Cache directory:C:\Users\MSI/.github-copilot-cli/cache/models
+2026-09-30 23:33:52.006 +01:00 [INF] Runtime versions: onnxruntime=1.26.0, onnxruntime-genai=0.14.1
+2026-09-30 23:33:52.007 +01:00 [INF] [Telemetry] AppName:github-copilot-cli UserAgent:CoreNativeInterop Command:CoreInitialize Status:Success Direct:True Time:0ms
+2026-09-30 23:33:52.007 +01:00 [INF] Getting latest info from the Azure catalog and for locally cached models.
+2026-09-30 23:33:52.007 +01:00 [INF] Getting info for locally cached models.
+2026-09-30 23:33:52.007 +01:00 [INF] Found 0 locally cached models.
+2026-09-30 23:33:52.007 +01:00 [INF] EPs are not fully registered. Call DownloadAndRegisterEpsAsync to register EPs.
+2026-09-30 23:33:52.009 +01:00 [INF] Device: CPU,EPs: CPUExecutionProvider
+2026-09-30 23:33:52.009 +01:00 [INF] Fetching latest models from Azure Foundry catalog
+2026-09-30 23:33:57.365 +01:00 [INF] Detected region from catalog header: 'westeurope'
+2026-09-30 23:34:00.713 +01:00 [INF] RegionFallback: "Catalog" sticky region set to 'westeurope' after 1 attempt(s).
+2026-09-30 23:34:00.845 +01:00 [INF] Got 48 models from Azure Foundry catalog.
+2026-09-30 23:34:00.845 +01:00 [INF] Populated model info for 0 models.
+2026-09-30 23:34:00.845 +01:00 [INF] Getting info for locally cached models.
+2026-09-30 23:34:00.851 +01:00 [INF] Getting latest info from the Azure catalog and for locally cached models.
+2026-09-30 23:34:00.851 +01:00 [INF] Getting info for locally cached models.
+2026-09-30 23:34:00.851 +01:00 [INF] Found 0 locally cached models.
+2026-09-30 23:34:00.851 +01:00 [INF] EPs are not fully registered. Call DownloadAndRegisterEpsAsync to register EPs.
+2026-09-30 23:34:00.851 +01:00 [INF] Device: CPU,EPs: CPUExecutionProvider
+2026-09-30 23:34:00.851 +01:00 [INF] Fetching latest models from Azure Foundry catalog
+2026-09-30 23:34:01.074 +01:00 [INF] Detected region from catalog header: 'westeurope'
+2026-09-30 23:34:03.021 +01:00 [INF] Got 48 models from Azure Foundry catalog.
+2026-09-30 23:34:03.021 +01:00 [INF] Populated model info for 0 models.
+2026-09-30 23:34:03.021 +01:00 [INF] Getting info for locally cached models.
+2026-09-30 23:34:03.144 +01:00 [INF] [Telemetry] AppName:github-copilot-cli UserAgent:CoreNativeInterop Command:ModelList Status:Success Direct:True Time:11136ms
+2026-09-30 23:34:03.208 +01:00 [INF] Getting info for locally cached models.
+2026-09-30 23:34:03.209 +01:00 [INF] [Telemetry] AppName:github-copilot-cli UserAgent:CoreNativeInterop Command:ListDownloadedModels Status:Success Direct:True Time:0ms
+2026-09-30 23:34:03.256 +01:00 [INF] [Telemetry] AppName:github-copilot-cli UserAgent:CoreNativeInterop Command:ListLoadedModels Status:Success Direct:True Time:46ms

@@ -1,0 +1,20 @@
+=== TEESTALE FASHION BRAND TOKENS (EXTRACTED FROM FIGMA) ===
+- Font Family: Inter, System Sans-serif
+- Main Background: bg-[#F9FAFB] (Clean Minimalist Pearl)
+- Accent Backgrounds: bg-white & bg-[#F3F4F6]
+- Primary Typography/Borders: text-[#111827] / border-[#E5E7EB]
+- Call To Actions: bg-[#111827] hover:bg-[#1F2937] text-white
+
+=== MODERN HERO GRID SECTION (Template B: Node 2-4) ===
+Container layout: A multi-column editorial grid showcasing high-quality product banners.
+Classes: "relative w-full min-h-[70vh] bg-[#F3F4F6] grid grid-cols-1 lg:grid-cols-12 gap-4 p-4 lg:p-8"
+Left Accent: "lg:col-span-7 bg-[#E5E7EB] flex flex-col justify-end p-8 lg:p-12"
+Right Callout: "lg:col-span-5 grid grid-rows-2 gap-4"
+
+=== PREMIUM APPAREL CARD LAYOUT (Template A: Node 39-1427) ===
+A clean, borderless container focusing heavily on luxury typography and balanced aspect ratios.
+Wrapper: "group relative flex flex-col overflow-hidden bg-white"
+Image Frame: "aspect-[3/4] w-full overflow-hidden bg-[#F3F4F6] relative"
+Image Element: "h-full w-full object-cover object-center group-hover:scale-105 transition-transform duration-500"
+Title Element: "mt-4 text-xs font-medium uppercase tracking-wider text-[#374151]"
+Price Element: "mt-1 text-sm font-bold font-mono text-[#111827]"

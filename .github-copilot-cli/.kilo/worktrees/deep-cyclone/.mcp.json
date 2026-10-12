@@ -1,0 +1,8 @@
+{
+	"mcpServers": {
+		"my-mcp-server-027549c9": {
+			"url": "my-mcp-server-a610fce8",
+			"type": "http"
+		}
+	}
+}
